@@ -22,3 +22,27 @@ You can download the latest APK from the **[Releases](../../releases)** page and
 3. Install it on your Android phone (enable *Install from Unknown Sources* if needed).
 
 ---
+
+## 🛠️ Requirements
+- Android 8.0 (Oreo) or higher
+- Stable Wi-Fi connection with the ROUV device
+- Camera module (UVC supported) on the ROUV
+
+---
+
+## 🎯 Research Purpose
+This application was developed as part of a research project:  
+**"IoT-based Android Application for Controlling and Monitoring ROUV to Detect Plastic Waste Underwater."**
+
+Main goals:
+1. Develop an Android application to control and monitor a ROUV in real-time.
+2. Integrate real-time detection results and ROUV control feedback into the Android interface.
+3. Assess system effectiveness for underwater plastic waste detection.
+
+---
+
+## 📜 License
+This project is currently under **All Rights Reserved**.  
+Please contact the author if you intend to use or modify this application for research or commercial purposes.
+
+---
