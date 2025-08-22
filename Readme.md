@@ -22,10 +22,3 @@ You can download the latest APK from the **[Releases](../../releases)** page and
 3. Install it on your Android phone (enable *Install from Unknown Sources* if needed).
 
 ---
-
-## 🛠️ Build from Source
-If you want to build the app yourself:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/ROUV-Android-App.git
